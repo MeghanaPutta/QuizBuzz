@@ -22,6 +22,39 @@
 	<br>
 <h3>Scope:</h3><hr />
 	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br><p>Note:The end result of the project is to make students competent enough on the topics of project management</p><br>
+	The steps followed by all the team members to complete the project:
+<br>
+Phase 1: Initiation
+<ul>
+<li>Project charter</li>
+<li>Stakeholder register</li>
+<li>Kick-off meeting</li>
+<li>Schedule and budget discussions</li>
+</ul>
+Phase 2: Planning
+<ul>
+<li>Requirement analysis</li>
+<li>Task divisions</li>
+</ul>
+Phase 3: Developing
+<ul>
+<li>Developing use cases</li>
+<li>Discussing the user stories for clear understanding across the team</li>
+<li>Developing sequence diagrams</li>
+<li>Cost management</li>
+<li>Developing the architecture for model view controller</li>
+</ul>
+Phase 4: Perfomance control & Testing
+<ul>
+<li>Quality control</li>	
+<li>Cost tracking</li>
+</ul>
+Phase 5: Project closing
+<ul>
+<li>Reporting the project</li>
+<li>Presentation</li>
+</ul>
+<br>
 <h3>Project Team</h3><hr />
  <li>Jyoshna Boppidi</li>
  <li>Meghana Putta </li>
