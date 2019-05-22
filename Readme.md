@@ -1,9 +1,9 @@
 ﻿
-# Project Title: 
-Quiz Buzz
+# Project Title: Quiz Buzz
+
 
 # Project Description:
-A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics.
+A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management.
  
 
 ## project Repository:
