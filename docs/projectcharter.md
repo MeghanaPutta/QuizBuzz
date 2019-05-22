@@ -30,15 +30,15 @@
  <h3>Budget for this project</h3><hr />
 <p>N/A</p>
 <h2> Roles</h2><hr />
-<p>Abhiram Madugula: Project Sponser.</p>
+<p>Abhiram Madugula: Project Sponser</p>
 
-<p>Preetham Potu: Project Manager.</p>
+<p>Preetham Potu: Project Manager</p>
 
-<p>Jyoshna Boppidi: Developer.</p>
+<p>Jyoshna Boppidi: Developer</p>
 
-<p>Himabindu Poshala: Tester. </p>
+<p>Himabindu Poshala: Tester</p>
 
-<p>Meghana Putta: Quality Analyst.</p>
+<p>Meghana Putta: Quality Analyst</p>
 <br>
 <h2>Stakeholder Register</h2><br>
 <table style="width:100%;border: 1px solid black;">
