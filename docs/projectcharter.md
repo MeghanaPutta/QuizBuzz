@@ -9,8 +9,10 @@
 <body>
 <div class="container">
 <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
-        <a class="navbar-brand js-scroll-trigger" href="#">           
+        <a class="navbar-brand js-scroll-trigger" href="#"> 
+		<h1>
             Project Charter: QuizBuzz
+			</h1>
         </a>
 </nav>
 </div>
@@ -38,7 +40,7 @@
 
 <p>Meghana Putta: Quality Analyst.</p>
 <br>
-<h2>Stake Holder Registry</h2><br>
+<h2>Stakeholder Register</h2><br>
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
@@ -105,19 +107,22 @@
 </table>
 <br> 
 <h3>Milestones</h3><hr />
-<p>1. 
+<br>1. 
 Project Charter
 Contribution of team members
-Artifacts 
+Artifacts
+<br>
 2.
 Requirements 
 Scope
 Schedule
 Cost management
+<br>
 3.
 Charts
 Stakeholder information
 Risk management
+<br>
 4.
 Procurement management
 Stakeholder management
