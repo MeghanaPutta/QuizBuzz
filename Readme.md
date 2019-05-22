@@ -33,7 +33,7 @@ Technology supporter – Preetham Potu (s533713@nwmissouri.edu)<br>
 Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies. 
 
 ## Project Charter Link:
-
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
 
 
 ## Team Communication and Participation:
@@ -93,3 +93,5 @@ If any non-participating team member is present in our group, we will encourage 
 ## Team Signatures:
 
 Jyoshna Boppidi
+<br>
+Himabindu Poshala
