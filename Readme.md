@@ -3,7 +3,7 @@
 Quiz Buzz
 
 # Project Description:
-A quiz is a type of game ,endeavor to respond to questions correctly.Quizzes are normally scored in points and numerous quizzes are planned.There are various types of inquiries that can be utilized for quizzes.You have probably observed each of these all through Buzz.
+A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics.
  
 
 ## project Repository:
