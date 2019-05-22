@@ -19,10 +19,10 @@
 <div class="container">
 <h3>Project Description:</h3><hr />
 <p>A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management. </p>
-<h3>Scope:</h3><hr />
-	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br>The end result of the project is to make students competent enough on the topics of project managent</p><br>
+	<br>
+
 	<h3>Scope:</h3><hr />
-	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br>The end result of the project is to make students competent enough on the topics of project managent</p><br>
+	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br><p>Note:The end result of the project is to make students competent enough on the topics of project managent</p><br>
 <h3>Project Team</h3><hr />
  <li>Jyoshna Boppidi</li>
  <li>Meghana Putta </li>
@@ -111,23 +111,35 @@
 <br> 
 <h3>Milestones</h3><hr />
 <br>1. 
+<br>
 Project Charter
+<br>
 Contribution of team members
+<br>
 Artifacts
 <br>
 2.
-Requirements 
+<br>
+Requirements
+<br>
 Scope
+<br>
 Schedule
+<br>
 Cost management
 <br>
 3.
+<br>
 Charts
+<br>
 Stakeholder information
+<br>
 Risk management
 <br>
 4.
+<br>
 Procurement management
+<br>
 Stakeholder management
 <br>
  <h3>Schedule:</h3>
