@@ -1,5 +1,5 @@
 ﻿
-# Project Title: Quiz Buzz
+# Project Title: QuizBuzz
 
 
 # Project Description:
