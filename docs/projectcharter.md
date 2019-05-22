@@ -111,35 +111,35 @@
 <h3>Milestones</h3><hr />
 <br>1. 
 <br>
-<ol>Project Charter
+Project Charter
 <br>
-<ol>Contribution of team members
+Contribution of team members
 <br>
-<ol>Artifacts
+Artifacts
 <br>
 2.
 <br>
-<ol>Requirements
+Requirements
 <br>
-<ol>Scope
+Scope
 <br>
-<ol>Schedule
+Schedule
 <br>
-<ol>Cost management
+Cost management
 <br>
 3.
 <br>
-<ol>Charts
+Charts
 <br>
-<ol>Stakeholder information
+Stakeholder information
 <br>
-<ol>Risk management
+Risk management
 <br>
 4.
 <br>
-<ol>Procurement management
+Procurement management
 <br>
-<ol>Stakeholder management
+Stakeholder management
 <br>
  <h3>Schedule:</h3>
  <hr />
