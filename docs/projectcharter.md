@@ -22,7 +22,8 @@
 	<br>
 <h3>Scope:</h3><hr />
 	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br><p>Note:The end result of the project is to make students competent enough on the topics of project management</p><br>
-	The steps followed by all the team members to complete the project:
+The steps followed by all the team members to complete the project:
+<br>
 <br>
 Phase 1: Initiation
 <ul>
