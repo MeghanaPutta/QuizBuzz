@@ -1,5 +1,6 @@
 ﻿
-# Project Title: Quiz Buzz
+# Project Title: 
+Quiz Buzz
 
 # Project Description:
 A quiz is a type of game ,endeavor to respond to questions correctly.Quizzes are normally scored in points and numerous quizzes are planned.There are various types of inquiries that can be utilized for quizzes.You have probably observed each of these all through Buzz.
