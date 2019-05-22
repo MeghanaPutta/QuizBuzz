@@ -1,47 +1,52 @@
-﻿
-# Project Title: QuizBuzz
-
+﻿# Project Title: QuizBuzz
 
 # Project Description:
+
 A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management.
- 
 
 ## project Repository:
+
 https://github.com/MeghanaPutta/QuizBuzz
 
 ## Team Name: Proj Pals
 
-## Team Members: 
-•	Jyoshna Boppidi<br>
-•	Meghana Putta<br>
-•	Himabindu Poshala<br>
-•	Preetham Potu<br>
-•	Abhiram Madugula<br>
+## Team Members:
+
+• Jyoshna Boppidi<br>
+• Meghana Putta<br>
+• Himabindu Poshala<br>
+• Preetham Potu<br>
+• Abhiram Madugula<br>
 
 ## Client: Dr. Denise Case
 
 ## Team Logo:
+
 ![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/logo.PNG)
 
 ## Roles:
-Team Lead – Abhiram Madugula (s534093@nwmissouri.edu)<br> 
-Team member – Himabindu Poshala (s533727@nwmissouri.edu)<br> 
-Team member – Jyoshna Boppidi (s533706@nwmissouri.edu)<br> 
-Team member – Meghana Putta (s533909@nwmissouri.edu)<br> 
+
+Team Lead – Abhiram Madugula (s534093@nwmissouri.edu)<br>
+Team member – Himabindu Poshala (s533727@nwmissouri.edu)<br>
+Team member – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
+Team member – Meghana Putta (s533909@nwmissouri.edu)<br>
 Technology supporter – Preetham Potu (s533713@nwmissouri.edu)<br>
 
 ## Project Charter:
-Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies. 
+
+Our Project charter outlines the purpose, objectives, goals, scope, project budget, risks and dependencies.
 
 ## Project Charter Link:
+
 https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
 
-
 ## Team Communication and Participation:
+
 We will conduct few stand-up meetings in Colden Hall or Horizons West, and also communicate through phone calls, e-mails, WhatsApp group, Skype for Business, etc.
 If any non-participating team member is present in our group, we will encourage him/her by allocating at least a small and interesting task and make him/her actively participate in the project.
 
 ## Team Members Contributions:
+
 <table style="width:100%;border: 1px solid black;">
 <tr>
 <th>Knowledge Areas</th>	
@@ -89,8 +94,6 @@ If any non-participating team member is present in our group, we will encourage 
   </tr>
   </table>
 
-
-    
 ## Team Signatures:
 
 Jyoshna Boppidi
@@ -100,3 +103,5 @@ Himabindu Poshala
 Meghana Putta
 <br>
 Preetham Potu
+<br>
+Abhiram Madugula
