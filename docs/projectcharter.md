@@ -30,7 +30,7 @@
  <h3>Budget for this project</h3><hr />
 <p>N/A</p>
 <h2> Roles</h2><hr />
-<p>Abhiram Madugula: Project Sponser</p>
+<p>Abhiram Madugula: Project Sponsor</p>
 
 <p>Preetham Potu: Project Manager</p>
 
