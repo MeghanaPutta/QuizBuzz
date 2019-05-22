@@ -19,7 +19,10 @@
 <div class="container">
 <h3>Project Description:</h3><hr />
 <p>A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management. </p>
-
+<h3>Scope:</h3><hr />
+	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br>The end result of the project is to make students competent enough on the topics of project managent</p><br>
+	<h3>Scope:</h3><hr />
+	<p>1. Project Coordination with in the team<br>2. Data collection related to Project Management<br>3. Development of the quiz related to project Management from the data collected.<br>4. Testing of the developed software.<br>The end result of the project is to make students competent enough on the topics of project managent</p><br>
 <h3>Project Team</h3><hr />
  <li>Jyoshna Boppidi</li>
  <li>Meghana Putta </li>
@@ -30,7 +33,7 @@
  <h3>Budget for this project</h3><hr />
 <p>N/A</p>
 <h2> Roles</h2><hr />
-<p>Abhiram Madugula: Project Sponsor</p>
+<p>Abhiram Madugula: Project Sponser</p>
 
 <p>Preetham Potu: Project Manager</p>
 
@@ -40,7 +43,7 @@
 
 <p>Meghana Putta: Quality Analyst</p>
 <br>
-<h2>Stakeholder Register</h2><br>
+<h2>Stakeholder Register</h2><hr />
 <table style="width:100%;border: 1px solid black;">
   <tr>
     <th>Name of the StakeHolder</th>
