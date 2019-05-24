@@ -12,6 +12,9 @@
         <a class="navbar-brand js-scroll-trigger" href="#"> 
 		<h1>
             Project Charter: QuizBuzz
+           <p> This is the project charter for the  PuMpup project. This application will be delivered as a web application.</p>
+           - [Source Code]https://github.com/MeghanaPutta/QuizBuzz
+
 			</h1>
         </a>
 </nav>
