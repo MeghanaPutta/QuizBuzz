@@ -60,4 +60,15 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 # Project Schedule Management:
 
+Link to Gantt chart:
+
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/QuizBuzzGanttChart.pod
+
 # Project Cost Management:
+
+Cost management is about completing the project within the budget by planning, estimating, budgeting, financing, funding, managing, and controlling costs.
+
+Link to cost estimation:
+
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/Cost_Management.xlsx
+
