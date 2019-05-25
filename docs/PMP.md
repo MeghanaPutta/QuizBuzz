@@ -56,7 +56,7 @@ Quality: Application should be useful to the students.
 
 # Work Breakdown Structure:
 
-
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 
 # Project Schedule Management:
 
