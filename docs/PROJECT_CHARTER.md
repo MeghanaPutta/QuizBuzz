@@ -11,11 +11,9 @@
 <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
         <a class="navbar-brand js-scroll-trigger" href="#"> 
 		<h1>
-            Project Charter: QuizBuzz
-          
+            Project Charter: QuizBuzz 
 			</h1>
-
-        </a>
+</a>
         
 </nav>
 </div>
