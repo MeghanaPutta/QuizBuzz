@@ -20,6 +20,15 @@ ID|Requirement|Priority|Type|
 10|The user should be able to see the activity history |Low|Functional
 
 # Scope Statement:
+It shows the details regarding deliverables and the objectives of the project.
+Scope:
+This includes the information taken from all the stakeholders such as the user registration, user login and logout, selecting the knowledge area, taking the quiz upon the interested topic, evaluating the results etc.,
+Project charter link:
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+
+
 # Work Breakdown Structure:
+
 # Project Schedule Management:
+
 # Project Cost Management:
