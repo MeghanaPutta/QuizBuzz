@@ -1,5 +1,6 @@
 # Project Management Plan:
 Introduction:
+
 In this project, the user should be able to test him/herself about the processes in knowledge areas. Application starts with user registration and login and then they can either study or take a quiz on different knowledge areas. After the quiz, they can track their leaderboard positions and the topper in that quiz.
 # Project Scope Management:
 This briefly shows all the work that is done within a project.
