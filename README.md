@@ -8,6 +8,14 @@ A quiz in general is a type of game ,endeavor to respond to questions correctly.
 
 https://github.com/MeghanaPutta/QuizBuzz
 
+## Project Management Plan link:
+
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PMP.md
+
+## Work Breakdown Structure link:
+
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
+
 ## Team Name: Proj Pals
 
 ## Team Members:
