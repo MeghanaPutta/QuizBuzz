@@ -21,13 +21,42 @@ ID|Requirement|Priority|Type|
 
 # Scope Statement:
 It shows the details regarding deliverables and the objectives of the project.
+
 Scope:
+
 This includes the information taken from all the stakeholders such as the user registration, user login and logout, selecting the knowledge area, taking the quiz upon the interested topic, evaluating the results etc.,
+
 Project charter link:
+
 https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
 
+Deliverables:
+
+It's a web application which allows students to take quiz upon the different knowledge areas.
+
+Assumptions:
+
+- No changes in cost estimation.
+- All the team members have equal knowledge in all areas of the project.
+- Changes in requirements may or may not happen.
+
+Project exclusion:
+
+The requirement changes that we come across after planning and implementing the project.
+
+Constraints:
+
+Scope: Application satisfies some of the agenda mentioned for the project.
+
+Time: Project is completed within the specified time i.e., milestones. According to our schedule, our project should be completed by the first week of june.
+
+Cost: Application should be developed within the estimated cost.
+
+Quality: Application should be useful to the students.
 
 # Work Breakdown Structure:
+
+
 
 # Project Schedule Management:
 
