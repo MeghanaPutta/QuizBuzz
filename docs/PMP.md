@@ -1,3 +1,8 @@
+# Project Management Plan:
+Introduction:
+In this project, the user should be able to test him/herself about the processes in knowledge areas. Application starts with user registration and login and then they can either study or take a quiz on different knowledge areas. After the quiz, they can track their leaderboard positions and the topper in that quiz.
+# Project Scope Management:
+This briefly shows all the work that is done within a project.
 # Requirements Specifications:
 
 ID|Requirement|Priority|Type|
@@ -13,3 +18,7 @@ ID|Requirement|Priority|Type|
 9 |The user should be shown the comment about the score after completion of the exam |Low|Non-Functional
 10|The user should be able to see the activity history |Low|Functional
 
+# Scope Statement:
+# Work Breakdown Structure:
+# Project Schedule Management:
+# Project Cost Management:
