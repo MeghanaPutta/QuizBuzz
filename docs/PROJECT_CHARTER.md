@@ -16,10 +16,11 @@
 			</h1>
 
         </a>
-        <p>This is the project charter for the "QuizBuzz" project. This application will be delivered as a web application.</p>
-        <a href="https://github.com/MeghanaPutta/QuizBuzz "></a>
+        
 </nav>
 </div>
+<p>This is the project charter for the "QuizBuzz" project. This application will be delivered as a web application.</p>
+        <a href="https://github.com/MeghanaPutta/QuizBuzz "></a>
 <div class="container">
 <h3>Project Description:</h3><hr />
 <p>A quiz in general is a type of game ,endeavor to respond to questions correctly. Our app lets the users to score the points and numerous quizzes are planned as they request.There are various types of queries that can be utilized to know about different topics in project management. </p>
