@@ -2,7 +2,7 @@
 
 The Work Breakdown Structure (WBS) for our project is:
 
-| ID | Task Name | Duration | Predecessor | milestone|
+| ID | Task Name | Duration | Predecessor | Milestone|
 | ---|-----------|----------|-------------|----------|
 | 1. | Planning | 4 days | None | Milestone-1 |
 | | 1.1 Client discussion| 1 day | None | |
