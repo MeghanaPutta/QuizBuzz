@@ -22,7 +22,7 @@ https://github.com/MeghanaPutta/QuizBuzz
 
 ## Team Logo:
 
-![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/logo.PNG)
+![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/logo.PNG)
 
 ## Roles:
 
