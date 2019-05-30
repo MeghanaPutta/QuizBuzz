@@ -18,7 +18,7 @@ The Work Breakdown Structure (WBS) for our project is:
 | | 3.2 Demo | 1 day | 3.1 | |
 | | 3.3 Demo with some updates | 0 days | 3.2,2.4 | |
 | 4. | Closing Out | 3 days | 3 | Milestone-4 | 
-| | 4.1 Changes in the inerface | 1 day | 3.3 | |
+| | 4.1 Changes in the interface | 1 day | 3.3 | |
 | | 4.2 Documentation for the project | 2 days | 4.1 | |
 | | 4.3 Close the project | 0 days | 2.4,3.3,4.2 | |
 
