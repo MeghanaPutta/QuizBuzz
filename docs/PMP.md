@@ -102,3 +102,8 @@ Abhiram Madugula| Project Sponsor | Quality Monitoring |
 
 Tools and techniques:
 
+- Flow Charts: For analyzing the sequence of events.
+- Control Charts: For monitoring the performance.
+- Check Sheets: For gathering and organizing data.
+- Histograms: For showing the frequency of two variables.
+- Pareto Charts: For identifying the priorities.
