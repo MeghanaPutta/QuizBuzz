@@ -72,3 +72,31 @@ Link to cost estimation:
 
 https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/Cost_Management.xlsx
 
+# Project Quality Management Plan:
+
+Quality Management Plan is about maintaining the quality throughout the project that is at deliverables and processes along with allocating the responsibility to different people in the project to meet the requirements of the clients. 
+
+Metrics:
+Some of the measures of quality are as follows.,
+- Number of bugs per test=Total number of defects/Total number of tests
+- Number of tests run per time period=Number of tests run/Total time
+- Test design efficiency=Number of tests designed/Total time
+- Bug find rate=Total number of defects/Total number of test hours
+- Test review efficiency=Number of tests reviewed/Total time
+- Passed Test Cases Percentage= (Number of Passed Tests/Total number of tests executed)*100
+- Failed Test Cases Percentage= (Number of Failed Tests/Total number of tests executed)*100
+- Fixed Defects Percentage= (Defects Fixed/Defects Reported)*100
+- Critical Defects Percentage= (Critical Defects/Total Defects Reported)*100
+- Rework Effort Ratio= (Actual rework efforts spent in that phase/total actual efforts spent in that phase)*100
+
+Roles and responsibilities:
+| Name | Role | Quality Responsibility |
+|-----|------|-------|
+| Meghana Putta | Quality Analyst | Quality Approver |
+| Jyoshna Boppidi| Developer | Quality Assurance |
+| Himabindu Poshala | Tester | Quality Auditor |
+| Preetham Potu | Project Manager | Quality Mentor |
+| Abhiram Madugula| Project Sponsor | Quality Monitoring |
+
+Tools and techniques:
+
