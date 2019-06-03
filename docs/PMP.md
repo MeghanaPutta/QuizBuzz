@@ -179,11 +179,23 @@ ID|Risk| Risk Management Plan|
 7 | Tracking | Risk management plan is checked and updates are tracked frequently. |
 8 | Risk documentation | Submit the documentation details of risks to management. |
 
-Risk mitigation stratergies
+Risk mitigation strategies:
 
-Risk rank|Major Risks|Strategies to Mitigate Risks|Responsibility|
+SNo|Major Risks|Strategies to Mitigate Risks|Responsibility|
 ----|----|------|-----|
 1 |Operational Risks|Procure significant resources to design a more robust risk-management framework|Project Manager, Program Manager
-2 |Financial Risks|Takes informed decisions regarding future expenses|Financial Manager, Program manager,Project Manager
-3 |Technical Risks|Training and testing the employees frequently |Program Manager
-4 |People Risks|Recruiting employees from different areas |Program Manager
+2 |Financial Risks|Take informed decisions regarding future expenses|Financial Manager, Program manager,Project Manager
+3 |Technical Risks|Train and test the employees frequently |Program Manager
+4 |People Risks|Recruit employees from different areas |Program Manager
+
+ Risk Register
+
+Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Potential Responses | Risk Owner | Probability | Impact | Status | 
+---|---|---|---|---|---|---|---|---|---|---|---|
+R1| 1 | Internal fraud| When trusted people tried to exploit the confidential data of the organization| Operational| Improper verification of the employee | Replication of data | Risk Mitigation | Operational Manager | High| High | Prediction |
+R2| 2 | Employee skills |Improper knowledge of the team members may result in unhealthy projects| Technical Risk | Lack of efficient training | Irrelevant deliverables | Risk Acceptance | Program Manager | Medium | Medium | Prediction |
+R3| 3 | Absenteeism| No call and no show of the employee may cause problems to the flow of the project| People Risk | Lack of commitment | Production issues | Risk Mitigation |Project Manager| Low | High | Expected |
+R4| 4 | Investment risk | When the companies unable to manage its debt and cover its expenses| Financial Risk | no proper budget planning | Delaying deadlines | Risk Avoidance | Financial Manager| High | Medium | Avoided|
+R5| 5 | Quality requirements | Frequent changes in the requirements by the client may affect the quality of the project | Technical Risk | Requirement changes| Doesn’t meet user requirements | Risk Acceptance | Project Manager | Medium | High | Expected | 
+
+
