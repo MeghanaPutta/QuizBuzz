@@ -160,7 +160,7 @@ Project Manager |Project status report |Email |preetham.potu@gmail.com |Bi-Weekl
 Team Lead |Project status report |Email |preetham.potu@gmail.com |Every week
 Team member |Project documents |Email |jyoshna.boppidi@gmail.com |Daily
 Team member |Project documents |Email |himabindu.poshala@gmail.com| Daily
-Team member |Project documents |Email meghana.putta@gmail.com |Daily
+Developer |Project documents |Email |meghana.putta@gmail.com |Daily
 Tester |Test reports |Reports |abhiram.madu@gmail.com |End of the each task
 Project Sponsor |Budget analysis |Report |meghana.putta@gmail.com |One month before the project starts
 
