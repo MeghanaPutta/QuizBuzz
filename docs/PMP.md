@@ -188,7 +188,7 @@ SNo|Major Risks|Strategies to Mitigate Risks|Responsibility|
 3 |Technical Risks|Train and test the employees frequently |Program Manager
 4 |People Risks|Recruit employees from different areas |Program Manager
 
- Risk Register
+ Risk Register:
 
 Risk ID| Rank | Name | Description | Category | Root Cause | Triggers | Potential Responses | Risk Owner | Probability | Impact | Status | 
 ---|---|---|---|---|---|---|---|---|---|---|---|
