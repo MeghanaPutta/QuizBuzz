@@ -183,7 +183,7 @@ Risk mitigation stratergies
 
 Risk rank|Major Risks|Strategies to Mitigate Risks|Responsibility|
 ----|----|------|-----|
-1 |Operational Risks|Procuring significant resources to design a more robust risk-management framework|Project Manager, Program Manager
+1 |Operational Risks|Procure significant resources to design a more robust risk-management framework|Project Manager, Program Manager
 2 |Financial Risks|Takes informed decisions regarding future expenses|Financial Manager, Program manager,Project Manager
-3 |Technical Risks|Traning and testing the employees frequently |Program Manager
+3 |Technical Risks|Training and testing the employees frequently |Program Manager
 4 |People Risks|Recruiting employees from different areas |Program Manager
