@@ -107,3 +107,11 @@ Tools and techniques:
 - Check Sheets: For gathering and organizing data.
 - Histograms: For showing the frequency of two variables.
 - Pareto Charts: For identifying the priorities.
+
+# Project Resource Management:
+
+Project Resource Management is about managing the resources of an organiization such as human skills, financial resources, inventory etc., effectively.
+
+Project orgnizational chart:
+
+![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/OC.PNG)
