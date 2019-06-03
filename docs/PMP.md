@@ -121,16 +121,47 @@ Communication is crucial for every project success. Planning is the way to commu
 
 Contents in the project communication management plan are as follows.,
 
-- 1. Information to be communicated, including format, content, and level of detail
+- 1. Information to be communicated, including format, content, and level of detail :-
 
 The information to be communicated for a project through email, seminars, conferences etc. The schedule for the communication plan can be created on Gantt Chart. The confidential information of the project can be shared through Google Docs and Github.
 
-- 2. Who will receive the information and who will produce it
+- 2. Who will receive the information and who will produce it :-
  
 The information related to the project will be communicated with the project manager through Emails or phone calls. According to the communication management plan the project information is shared to the project manager if there are any changes in the project.
 
-- 3. Suggested methods or technologies for conveying the information
+- 3. Suggested methods or technologies for conveying the information :-
 
 Communication management plan can be shared using collaborative tools like SharePoint portal, Google Docs, for this we need to authorize out team members to edit the documents and make sure to share the information to right people.
+
+- 4. Frequency of communication :-
+
+If the project team members will be in the same location then they need to communicate through the face-to-face meetings for better communication. If they are in different locations then they need to communicate through the video calls to rectify there errors when they run the code. Project status meetings are conducted on weekly basis and scrum meetings are held on daily basis with all the stakeholders.
+
+- 5. Escalation procedures for resolving issues :-
+
+For resolving issues in the project we need to report to the higher authority.
+The issues are created and tracked by using different tools.
+
+- 6. Revision procedures for updating the communications management plan :-
+
+We can use collaborative tools like SharePoint Portals, Google Docs to share the documents among the team members.
+
+- 7. A glossary of common terminology :-
+
+Stakeholder - The people who involved in or affected by the project’s activities.
+Escalation - The process which details how conflicts and issues will be passed to the higher authority.
+
+- 8. Stakeholder communications requirements :-
+
+Stakeholders|Document Name|Document Format|Contact Person|Due Date|
+---|---|--|--|--|
+Program Manager|Project status report |Email |abhiram.madu@gmail.com |Every week
+Project Manager |Project status report |Email |preetham.potu@gmail.com |Bi-Weekly
+Team Lead |Project status report |Email |preetham.potu@gmail.com |Every week
+Team member |Project documents |Email |jyoshna.boppidi@gmail.com |Daily
+Team member |Project documents |Email |himabindu.poshala@gmail.com| Daily
+Team member |Project documents |Email meghana.putta@gmail.com |Daily
+Tester |Test reports |Reports |abhiram.madu@gmail.com |End of the each task
+Project Sponsor |Budget analysis |Report |meghana.putta@gmail.com |One month before the project starts
 
 
