@@ -180,11 +180,10 @@ ID|Risk| Risk Management Plan|
 8 | Risk documentation | Submit the documentation details of risks to management. |
 
 Risk mitigation stratergies
+
 Risk rank|Major Risks|Strategies to Mitigate Risks|Responsibility|
-----|----|------|-----|----|
+----|----|------|-----|
 1 |Operational Risks|procuring significant resources to design a more robust risk-management framework|Project Manager Program Manager
 2 |Financial Risks|helps you to take informed decisions regarding future expenses|Financial Manager Program manager Project Manager
-
 3 |Technical Risks|The potential for failure or loss due to challenging conditions surrounding the construction of software|Program Manager
-
 4 |People Risks|Recruiting employees from different areas |Program Manager
