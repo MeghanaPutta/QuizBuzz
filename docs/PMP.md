@@ -164,4 +164,18 @@ Developer |Project documents |Email |meghana.putta@gmail.com |Daily
 Tester |Test reports |Report |abhiram.madu@gmail.com |End of the each task
 Project Sponsor |Budget analysis |Report |meghana.putta@gmail.com |One month before the project starts
 
+# Project Risk Management
+
+Project risk management deals with identifying, analyzing, evaluating, prioritizing, treating, monitoring and reviewing the risks that occur in developing projects. 
+
+ID|Risk| Risk Management Plan|
+---|---|---|
+1 | Methodology | Well be checking and correcting the defects before delivering the outputs to client. |
+2 | Roles & Responsibilities | Project sponsor - Abhiram Madugula - <br> Tester - Himabindu Poshala - <br> Developer - Jyoshna Boppidi - <br> Quality analyst - Meghana Putta - <br> Project manager - Preetham Potu |
+3 | Budget & Schedule | |
+4 | Risk Categories | Technical risks: Risks related to the technical aspects, where the outputs are uncertain. <br> People risks: Knowledge and behavior of people may impact the projects. <br> Operational risks: Unexpected failures in the project which may be because of technical or server issues. <br> Financial risks: Problems based upon the cash flow in the project. |
+5 | Risk probability and impact | Risks are sorted and prioritized to manage them effectively. |
+6 | Revised stakeholders’ tolerances | Changes in risk management plan are done as per the requirements of stakeholders. |
+7 | Tracking | Risk management plan is checked and updates are tracked frequently. |
+8 | Risk documentation | Submit the documentation details of risks to management. |
 
