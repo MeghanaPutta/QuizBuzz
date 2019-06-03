@@ -115,3 +115,31 @@ Project Resource Management is about managing the resources of an organiization 
 Project orgnizational chart:
 
 ![](https://github.com/MeghanaPutta/QuizBuzz/blob/master/images/OC.PNG)
+
+# Project Communication Management Plan:
+Communication is crucial for every project success. Planning is the way to communicate your path through time to complete a series of tasks. Communication could be through mails, hangouts, Messages, phone calls..etc. Communication controls to ensure the stakeholder to meet the requirements.
+
+Contents in the project communication management plan
+
+1. Information to be communicated, including format, content, and level of detail
+2. Who will receive the information and who will produce it
+3. Suggested methods or technologies for conveying the information
+4. Frequency of communication
+5. Escalation procedures for resolving issues
+6. Revision procedures for updating the communications management plan
+7. A glossary of common terminology
+8. Stakeholder communications requirements
+
+1. Information to be communicated, including format, content, and level of detail
+
+The information to be communicated for a project through email, seminars, conferences etc. The schedule for the communication plan can be created on Gantt Chart. The confidential information of the project can be shared through Google Docs and Github.
+
+ 2. Who will receive the information and who will produce it
+ 
+The information related to the project will be communicated with the project manager through Emails or phone calls. According to the communication management plan the project information is shared to the project manager if there are any changes in the project.
+
+3. Suggested methods or technologies for conveying the information
+
+Communication management plan can be shared using collaborative tools like SharePoint portal, Google Docs, for this we need to authorize out team members to edit the documents and make sure to share the information to right people.
+
+
