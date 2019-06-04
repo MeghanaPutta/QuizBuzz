@@ -37,6 +37,7 @@ https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/WBS.md
 Project sponsor – Abhiram Madugula (s534093@nwmissouri.edu)<br>
 Tester – Himabindu Poshala (s533727@nwmissouri.edu)<br>
 Developer – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
+Developer – Abhiram Madugula (s534093@nwmissouri.edu)<br>
 Quality analyst – Meghana Putta (s533909@nwmissouri.edu)<br>
 Project manager – Preetham Potu (s533713@nwmissouri.edu)<br>
 
