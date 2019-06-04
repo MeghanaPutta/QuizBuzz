@@ -70,7 +70,7 @@ Cost management is about completing the project within the budget by planning, e
 
 Link to cost estimation:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/Cost_Management.xlsx
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/Project-Cost-Management.md
 
 # Project Quality Management Plan:
 
