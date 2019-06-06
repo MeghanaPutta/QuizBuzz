@@ -277,13 +277,14 @@ Stakeholder Register:
 | Meghana Putta | Quality Engineer | Internal | Quality Analyst | puttameghana@gmail.com |
 
 Stakeholder Analysis:
+
 | Name | Power/Interest | Current Engagement | Potential Management strategies |
 | ----- | ------------ | ----------- | ---------------- |
-| Abhiram Madugula | High/Medium |	Neutral	| Abhiram Madugula supported in project to join the project management team and will be the project member of the team. |
-| Preetham Potu |	Medium/High |	Supportive |	Preetham Potu is in charge of the issues created in the project and takes care of how to resolve them.|
-| Jyoshna Boppidi |	High/High	| Leading	| Jyoshna Boppidi has good communication skills for fruitful conversations with clients and customers. |
+| Abhiram Madugula | High/Medium |	Neutral	| Abhiram Madugula supported in project to join the project management team and will be the project member of the team.
+| Preetham Potu |	Medium/High |	Supportive |	Preetham Potu is in charge of the issues created in the project and takes care of how to resolve them.
+| Jyoshna Boppidi |	High/High	| Leading	| Jyoshna Boppidi has good communication skills for fruitful conversations with clients and customers.
 | Himabindu Poshala |	High/Medium	| Resistant	| Himabindu Poshala has good analytics skills to test from user point of view. |
-| Meghana Putta |	Medium/Medium	| Resistant	| Meghana Putta has to keep informed of key isssues and responsible for identifying requirements clearly.|
+| Meghana Putta |	Medium/Medium	| Resistant	| Meghana Putta has to keep informed of key isssues and responsible for identifying requirements clearly.
 
 
 
