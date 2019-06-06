@@ -238,14 +238,12 @@ Statement of work:
 
 Deliverable| Description | Due Date|
 |----|----|----|
-|Project charter| |5/24/2019
-|Scope statement| |5/24/2019
-|Project management plan| |5/24/2019
-|Scope management plan| |5/24/2019
-|Schedule management plan| |5/24/2019
-|Stakeholder register| |06/05/2019
-|Final product| |06/06/2019
-|Final documentation| |06/06/2019
+|Project charter| Charter contains data about key schedule milestones, information about budget, objectives of the project, roles and responsibilities of the stakeholders|5/24/2019
+|Project management plan| It contains schedule, tech nical process along with the project initiation |5/24/2019
+|Schedule management plan| Schedule model development, control cut offs of the deliverables, decriptions of the process |5/24/2019
+|Scope management plan| It contains work breakdown structure and approval of it and formal acceptance of deliverables |5/24/2019
+|Final product|Quiz app will be delivered with all the client requirements satisfied |06/06/2019
+
 
 5.	Applicable standards:
 
