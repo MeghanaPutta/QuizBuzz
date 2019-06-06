@@ -28,7 +28,7 @@ This includes the information taken from all the stakeholders such as the user r
 
 Project charter link:
 
-https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/projectcharter.md
+https://github.com/MeghanaPutta/QuizBuzz/blob/master/docs/PROJECT_CHARTER.md
 
 Deliverables:
 
