@@ -199,15 +199,78 @@ R3| 3 | Absenteeism| No call and no show of the employee may cause problems to t
 R4| 4 | Investment risk | When the companies unable to manage its debt and cover its expenses| Financial Risk | no proper budget planning | Delaying deadlines | Risk Avoidance | Financial Manager| High | Medium | Avoided|
 R5| 5 | Quality requirements | Frequent changes in the requirements by the client may affect the quality of the project | Technical Risk | Requirement changes| Doesn’t meet user requirements | Risk Acceptance | Project Manager | Medium | High | Expected | 
 
+# Project Procurement Management:
+
+Procurement management plan:
+
+Third Party Documentation tool is acquired from another project within the same IT industry. The unit testing team is outsourced from another consulting company.
+
+Statement of work:
+
+1.	Scope of work:
+
+- In this project, the user should be able to test him/herself about the processes in knowledge areas. Application starts with user registration and login and then they can either study or take a quiz on different knowledge areas. The expected outcome is to develop a web application which quizzes the users on the concepts of Project Management course. The resources for the project consists of human assets, hardware and software.
+
+- The human resource includes following roles which include:
+
+   Project sponsor – Abhiram Madugula (s534093@nwmissouri.edu)<br>
+   Tester – Himabindu Poshala (s533727@nwmissouri.edu)<br>
+   Developer – Jyoshna Boppidi (s533706@nwmissouri.edu)<br>
+   Developer – Abhiram Madugula (s534093@nwmissouri.edu)<br>
+   Quality analyst – Meghana Putta (s533909@nwmissouri.edu)<br>
+   Project manager – Preetham Potu (s533713@nwmissouri.edu)<br>
+
+- Hardware includes the windows desktops for working on the web development of the application. Software includes licensed software of JIRA for task tracking, GIT repository for version control of implemented code. The documentation for the project include documentation software sharepoint. 
+
+- Software includes the Integrated Development Environment for development(ECLIPSE), Repository cloud(GIT).
+
+- The nature of work is continuous integration and testing of software development.
+
+2.	Location of work:
+
+- Development takes place in a single office providing the basic safety. The same office is provided with good infrastructure which provides supportive hardware and software resources mentioned where people can work with ease.
+
+3.	Period of performance:
+
+- The work is expected to start on 22nd of May, 2019 and expected to end on 21st of June, 2019. The daily working hours are from 8:00 AM to 5:00 PM i.e. around 9 hours per day. Number of hours billed per week is 45 hours per week. The work must be performed in the office.
+
+4.	Deliverables schedule:
+
+Deliverable| Description | Due Date|
+|----|----|----|
+|Project charter| |5/24/2019
+|Scope statement| |5/24/2019
+|Project management plan| |5/24/2019
+|Scope management plan| |5/24/2019
+|Schedule management plan| |5/24/2019
+|Stakeholder register| |06/05/2019
+|Final product| |06/06/2019
+|Final documentation| |06/06/2019
+
+5.	Applicable standards:
+
+- The code should follow standards of coding with maximum of 500 lines of code per file with more modularity. The tests should have minimum of 90% of code coverage so that most of the code is tested.
+
+6.	Acceptance criteria:
+
+- The requirements given by the client should be checked by the client and are well satisfied. The quality of the product should be ensured with execution time of each feature less than 500 milliseconds.
+
+
+7.	Special requirements:
+
+- The project should have human assets with qualified personnel with graduation in Applied Computer Science. Each employee should pass three phases of screening i.e. coding test, technical interview and HR round before taken into the project.
+
 
 # Project Stakeholder Management:
+
 It deals with identifying stakeholders, creating risk register, and performing stakeholder analysis.
+
 # Stakeholder Register:
 
 | Name | Position | Internal/External | Project Role | Contact Information |
 |-----|------|-------|--------|---------|
 | Dr.Denise Case | Client | External | Client| dcase@gmail.com |
-| Abhiram Madugula | System's Engineer | Internal | Project Sponsor & Developer | abhi.madu@gmail.com |
+| Abhiram Madugula | System's Engineer | Internal | Project Sponsor & Developer | abhirmmadugula@gmail.com |
 | Preetham Potu | Consultant | Internal |  Project Manager | potupreetham@gmail.com |
 | Jyoshna Boppidi | Web developer | Internal |  Project Developer | boppidijyo123@gmail.com |
 | Himabindu Poshala | Software Tester | Internal |  Project Tester | bindu123@gmail.com |
