@@ -222,7 +222,7 @@ Statement of work:
 
 - Hardware includes the windows desktops for working on the web development of the application. Software includes licensed software of JIRA for task tracking, GIT repository for version control of implemented code. The documentation for the project include documentation software sharepoint. 
 
-- Software includes the Integrated Development Environment for development(ECLIPSE), Repository cloud(GIT).
+- Software includes the Integrated Development Environment for development(Visual Studio), Repository cloud(GIT).
 
 - The nature of work is continuous integration and testing of software development.
 
@@ -272,7 +272,7 @@ Request for proposal:
 
 3.	Software Environment:
 
-- IDE(Eclipse)
+- IDE(Visual Studio)
 - Repository Cloud(GIT)
 
 5.	Description of RFP Process:
