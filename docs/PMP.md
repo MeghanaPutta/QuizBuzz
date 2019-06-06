@@ -199,3 +199,19 @@ R4| 4 | Investment risk | When the companies unable to manage its debt and cover
 R5| 5 | Quality requirements | Frequent changes in the requirements by the client may affect the quality of the project | Technical Risk | Requirement changes| Doesn’t meet user requirements | Risk Acceptance | Project Manager | Medium | High | Expected | 
 
 
+# Project Stakeholder Management:
+It deals with identifying stakeholders, creating risk register, and performing stakeholder analysis.
+# Stakeholder Register:
+
+| Name | Position | Internal/External | Project Role | Contact Information |
+|-----|------|-------|--------|---------|
+| Abhiram Madugula | System's Engineer | Internal | Project Sponsor & Developer | abhi.madu@gmail.com |
+| Preetham Potu | Consultant | Internal |  Project Manager | potupreetham@gmail.com |
+| Jyoshna Boppidi | Web developer | Internal |  Project Developer | boppidijyo123@gmail.com |
+| Himabindu Poshala | Software Tester | Internal |  Project Tester | bindu123@gmail.com |
+| Meghana Putta | Quality Engineer | Internal | Quality Analyst | puttameghana@gmail.com |
+
+
+
+
+
