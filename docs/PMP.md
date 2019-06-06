@@ -187,6 +187,7 @@ SNo|Major Risks|Strategies to Mitigate Risks|Responsibility|
 2 |Financial Risks|Take informed decisions regarding future expenses|Financial Manager, Program manager,Project Manager
 3 |Technical Risks|Train and test the employees frequently |Program Manager
 4 |People Risks|Recruit employees from different areas |Program Manager
+5 | Market Risks|Keeping track of all the similar products in the market|Program Manager
 
  Risk Register:
 
