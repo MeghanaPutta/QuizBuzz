@@ -206,6 +206,7 @@ It deals with identifying stakeholders, creating risk register, and performing s
 
 | Name | Position | Internal/External | Project Role | Contact Information |
 |-----|------|-------|--------|---------|
+| Dr.Denise Case | Client | External | Client| dcase@gmail.com |
 | Abhiram Madugula | System's Engineer | Internal | Project Sponsor & Developer | abhi.madu@gmail.com |
 | Preetham Potu | Consultant | Internal |  Project Manager | potupreetham@gmail.com |
 | Jyoshna Boppidi | Web developer | Internal |  Project Developer | boppidijyo123@gmail.com |
