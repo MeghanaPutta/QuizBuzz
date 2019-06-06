@@ -31,7 +31,7 @@
  <li>Abhiram Madugula</li>
 
  <h3>Budget for this project</h3><hr />
-<p>85000</p>
+<p>29227</p>
 <h2> Roles</h2><hr />
 <p>Abhiram Madugula: Project Sponsor</p>
 
