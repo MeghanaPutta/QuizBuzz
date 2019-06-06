@@ -91,10 +91,10 @@
   </tr>
 <tr>
     <td>Himabindu Poshala</td>
-    <td>Developer</td> 
+    <td>Tester</td> 
     <td>
 	Applied Computer Science</td>
-	 <td>Project Tester</td> 
+	 <td> Internal</td> 
 	 <td>Develop,test and validate code</td>
 	  <td>bindu123@gmail.com</td> 
   </tr>
