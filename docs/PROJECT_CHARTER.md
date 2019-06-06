@@ -55,7 +55,7 @@
   </tr>
   <tr>
     <td>Dr.Denise Case</td>
-    <td>Mentor</td> 
+    <td>Client</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>External</td> 
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Abhiram Madugula</td>
-    <td>Developer</td> 
+    <td>Developer & Sponsor</td> 
     <td>
 	Applied Computer Science</td>	 
 	 <td>Internal</td> 
@@ -73,7 +73,7 @@
   </tr>
   <tr>
     <td>Preetham Potu</td>
-    <td>Developer</td> 
+    <td>Project Manager</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td>Jyoshna Boppidi</td>
-    <td>Developer</td> 
+    <td>Project Developer</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
@@ -94,13 +94,13 @@
     <td>Developer</td> 
     <td>
 	Applied Computer Science</td>
-	 <td>Internal</td> 
+	 <td>Project Tester</td> 
 	 <td>Develop,test and validate code</td>
 	  <td>bindu123@gmail.com</td> 
   </tr>
   <tr>
     <td>Meghana Putta</td>
-    <td>Developer</td> 
+    <td>Quality Analyst</td> 
     <td>
 	Applied Computer Science</td>
 	 <td>Internal</td> 
