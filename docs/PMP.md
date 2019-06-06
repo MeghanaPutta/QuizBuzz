@@ -258,6 +258,53 @@ Deliverable| Description | Due Date|
 
 - The project should have human assets with qualified personnel with graduation in Applied Computer Science. Each employee should pass three phases of screening i.e. coding test, technical interview and HR round before taken into the project.
 
+Request for proposal:
+
+1.	Purpose of RFP:
+- To create a web application which enables to select the knowledge area, taking the quiz upon the interested topic.
+
+2.	Basic Requirements:
+
+  To add following features into the quizapp:
+-	User should be able to fetch information about the selected knowledge area.
+-	User should be able to select the knowledge area to take quiz.
+- Results should be displayed in the leaderboard.
+
+3.	Software Environment:
+
+- IDE(Eclipse)
+- Repository Cloud(GIT)
+
+5.	Description of RFP Process:
+
+- Through a timely submission of document interface for each requirement and approval of the same.
+
+6.	Statement of work and schedule information:
+
+- The document is included in Project Management Plan
+
+7.	Possible Appendices:
+
+   a.	System Requirements:
+ 
+- Windows desktop with IDE(Visual Studio)
+
+b.	Required Contents of Vendor’s Response to RFP:
+
+- Scope
+- Time
+- Cost
+- Quality
+
+c.	Model Contract:
+
+- The project should complete all the deliverables with good testing and clients should be satisfied.
+
+	
+
+
+
+
 
 # Project Stakeholder Management:
 
