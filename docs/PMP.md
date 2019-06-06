@@ -291,7 +291,7 @@ Issue Log:
 |1| Git repository server down| Project work delayed|05/18/2019| Preetham Potu|Abhiram Madugula | High |5/20/2019 | Closed| The issue is resolved by following up with Git support | 
 |2| Leaderboard performances is low| Quality is declined| 05/22/2019| Jyoshna Boppidi| Preetham Potu | Medium |05/24/2019 | Closed| changed the algorithm to obtain performance | 
 |3| Documentation format changes| Documentation structure is unsatisfactory| 05/26/2019| Himabindu Poshala| Meghana Putta | Low |05/28/2019 | In progress| The documentation changes are under progress | 
-|4| Test cases failed because of code coverage gates| Code coverage is less than 90%| 05/29/2019| Meghana Putta| Jyoshna Boppidi |Medium |05/30/2019 | Open| Thould add more functional tests to increase code coverage | 
+|4| Test cases failed because of code coverage gates| Code coverage is less than 90%| 05/29/2019| Meghana Putta| Jyoshna Boppidi |Medium |05/30/2019 | Open| Should add more functional tests to increase code coverage | 
 |5| Project requirements may increase| Project will be delayed| 06/1/2019| Himabindu Poshala | Abhiram Madugula |High|06/2/2019 | Open| Enable multiple knowledge area selection| 
 
 
