@@ -1,4 +1,4 @@
-﻿# Project Title: QuizBuzz
+# Project Title: QuizBuzz
 
 # Project Description:
 
